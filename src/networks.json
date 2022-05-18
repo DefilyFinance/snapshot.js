@@ -136,6 +136,16 @@
     "start": 7826070,
     "logo": "ipfs://Qmd2muU2UHo5WsTxE9EpZZJeatimTT9GD4sEnHQe6i9wiA"
   },
+  "24": {
+    "key": "24",
+    "name": "KardiaChain",
+    "chainId": 24,
+    "network": "homestead",
+    "multicall": "0x95c7e4aa82381db726d0303b12da4a001548f6d4",
+    "rpc": ["https://rpc.kardiachain.io"],
+    "ws": ["wss://ws.kardiachain.io"],
+    "explorer": "https://explorer.kardiachain.io"
+  },
   "25": {
     "key": "25",
     "name": "Cronos Mainnet",
