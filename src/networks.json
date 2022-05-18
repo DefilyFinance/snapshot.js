@@ -70,6 +70,16 @@
     "ws": ["wss://ws.dome.cloud"],
     "explorer": "https://exp.tch.in.th"
   },
+  "24": {
+    "key": "24",
+    "name": "KardiaChain",
+    "chainId": 24,
+    "network": "homestead",
+    "multicall": "0x95c7e4aa82381db726d0303b12da4a001548f6d4",
+    "rpc": ["https://rpc.kardiachain.io"],
+    "ws": ["wss://ws.kardiachain.io"],
+    "explorer": "https://explorer.kardiachain.io"
+  },
   "30": {
     "key": "30",
     "name": "RSK Mainnet",
